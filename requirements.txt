@@ -1,0 +1,13 @@
+accelerate
+datasets
+huggingface-hub
+mido
+miditok==3.0.3
+pandas
+pretty_midi
+requests
+sentencepiece
+symusic
+torch
+transformers
+tqdm
