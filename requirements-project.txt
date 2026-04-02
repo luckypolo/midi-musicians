@@ -1,0 +1,14 @@
+accelerate
+einops
+huggingface-hub
+jsonlines
+mido
+miditok==3.0.3
+pandas
+pretty_midi
+sentencepiece
+st-moe-pytorch
+symusic
+torch
+transformers
+tqdm

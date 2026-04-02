@@ -1,0 +1,14 @@
+[
+  {
+    "id": "happy_pop",
+    "caption": "A cheerful pop song with piano, acoustic guitar, bass, and drums in C major, medium tempo, and a bright uplifting mood."
+  },
+  {
+    "id": "sad_classical",
+    "caption": "A sad classical piece with cello, violin, and piano in A minor, slow tempo, and a melancholic mood."
+  },
+  {
+    "id": "dark_cinematic",
+    "caption": "A dark cinematic piece with cello, contrabass, and percussion in A minor, moderate tempo, with a dramatic and tense atmosphere."
+  }
+]

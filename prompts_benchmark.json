@@ -1,0 +1,50 @@
+[
+  {
+    "id": "happy_pop_bright",
+    "caption": "A cheerful pop song with acoustic guitar, piano, bass, and drums in C major, medium tempo, and a bright uplifting mood."
+  },
+  {
+    "id": "sad_classical_slow",
+    "caption": "A sad classical piece with violin, cello, and piano in A minor, slow tempo, and a melancholic mood."
+  },
+  {
+    "id": "dark_cinematic_tense",
+    "caption": "A dark cinematic piece with contrabass, cello, and percussion in A minor, moderate tempo, with a tense dramatic atmosphere."
+  },
+  {
+    "id": "calm_ambient_soft",
+    "caption": "A calm ambient track with soft piano and airy synth pads, sparse texture, low density, and a peaceful relaxing mood."
+  },
+  {
+    "id": "energetic_rock_driving",
+    "caption": "An energetic rock track with electric guitar, bass, and drums, fast tempo, driving rhythm, and a lively powerful mood."
+  },
+  {
+    "id": "jazz_warm_medium",
+    "caption": "A warm jazz piece with piano, upright bass, brushed drums, and saxophone, medium tempo, and a smooth intimate feel."
+  },
+  {
+    "id": "folk_gentle",
+    "caption": "A gentle folk tune with acoustic guitar, violin, and light percussion, moderate tempo, and a tender calm mood."
+  },
+  {
+    "id": "electronic_high_density",
+    "caption": "A dense electronic dance track with synth bass, bright leads, punchy drums, high energy, and a fast driving groove."
+  },
+  {
+    "id": "orchestral_epic",
+    "caption": "An epic orchestral cinematic cue with strings, brass, percussion, and low basses, dramatic mood, and rich layered texture."
+  },
+  {
+    "id": "solo_piano_sparse",
+    "caption": "A sparse solo piano piece in a calm reflective mood, low density, long notes, and a gentle slow tempo."
+  },
+  {
+    "id": "high_register_bright",
+    "caption": "A bright high-register chamber melody with flute, violin, and light piano accompaniment, cheerful and airy."
+  },
+  {
+    "id": "low_register_dark",
+    "caption": "A low-register dark ensemble with bass, cello, and deep percussion, slow heavy movement, and an ominous mood."
+  }
+]

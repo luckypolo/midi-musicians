@@ -205,3 +205,48 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project artifacts and heavy assets
+artifacts/
+data/
+outputs/
+vendor/
+
+# Local report scratch files duplicated outside report/
+midway_report.tex
+custom.bib
+!report/midway_report.tex
+!report/custom.bib
+
+# Local MIDI / generated media artifacts
+*.mid
+*.midi
+*.wav
+*.mp3
+
+# Model weights and archives
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Windows / native build outputs
+*.obj
+*.o
+*.pyd
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.dll
+*.exe
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+build-*/
