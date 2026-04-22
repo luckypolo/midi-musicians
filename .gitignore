@@ -215,8 +215,20 @@ vendor/
 # Local report scratch files duplicated outside report/
 midway_report.tex
 custom.bib
-!report/midway_report.tex
-!report/custom.bib
+
+# LaTeX / report build outputs
+report/*.aux
+report/*.bbl
+report/*.bcf
+report/*.blg
+report/*.fdb_latexmk
+report/*.fls
+report/*.log
+report/*.out
+report/*.pdf
+report/*.run.xml
+report/*.synctex.gz
+report/*.toc
 
 # Local MIDI / generated media artifacts
 *.mid
@@ -230,10 +242,24 @@ custom.bib
 *.bin
 *.ckpt
 *.safetensors
+*.h5
+*.joblib
+*.npy
+*.npz
+*.onnx
+*.pkl
+*.pickle
 *.zip
 *.7z
 *.tar
 *.gz
+
+# Training run logs
+checkpoints/
+lightning_logs/
+mlruns/
+runs/
+wandb/
 
 # Windows / native build outputs
 *.obj
