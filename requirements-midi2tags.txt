@@ -1,0 +1,5 @@
+datasets
+miditok==3.0.3
+symusic
+torch
+tqdm
