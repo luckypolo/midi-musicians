@@ -1,0 +1,276 @@
+{
+  "text_alignment": [
+    {
+      "prompt_id": "p01",
+      "text": "fast energetic piano with high density and bright chords",
+      "cond1_mean": 0.13325012798754587,
+      "cond1_std": 0.012865548853048412,
+      "cond2_mean": 0.11813851426461586,
+      "cond2_std": 0.007635216630769281,
+      "cond1_seeds": [
+        0.1204050691457388,
+        0.1285130486138658,
+        0.15083226620303306
+      ],
+      "cond2_seeds": [
+        0.11554384757509044,
+        0.1285130486138658,
+        0.11035864660489134
+      ]
+    },
+    {
+      "prompt_id": "p02",
+      "text": "slow calm piano with sparse notes and low register",
+      "cond1_mean": 0.12939910336564797,
+      "cond1_std": 0.020489956544678046,
+      "cond2_mean": 0.14403445836433296,
+      "cond2_std": 0.010096538943109567,
+      "cond1_seeds": [
+        0.10068000461222809,
+        0.14041687119688265,
+        0.1471004342878332
+      ],
+      "cond2_seeds": [
+        0.13032699208077808,
+        0.1543507301713814,
+        0.14742565284083942
+      ]
+    },
+    {
+      "prompt_id": "p04",
+      "text": "dark sad piano with deep low notes and sustained legato",
+      "cond1_mean": -0.038623935377094305,
+      "cond1_std": 0.014309183906513355,
+      "cond2_mean": 0.050463680587551574,
+      "cond2_std": 0.025883987864606342,
+      "cond1_seeds": [
+        -0.05346152824943486,
+        -0.04312208042863944,
+        -0.019288197453208616
+      ],
+      "cond2_seeds": [
+        0.015312554491483346,
+        0.05919221066987531,
+        0.07688627660129606
+      ]
+    },
+    {
+      "prompt_id": "p05",
+      "text": "dense complex polyphonic piano with layered chords",
+      "cond1_mean": 0.1217069032753811,
+      "cond1_std": 0.023247597346439466,
+      "cond2_mean": 0.07504704027920768,
+      "cond2_std": 0.020618286012329703,
+      "cond1_seeds": [
+        0.11532991587718586,
+        0.09696375367578051,
+        0.15282704027317695
+      ],
+      "cond2_seeds": [
+        0.04743293884978691,
+        0.09696375367578051,
+        0.08074442831205561
+      ]
+    },
+    {
+      "prompt_id": "p07",
+      "text": "calm ambient with sparse polyphony and long sustained pads",
+      "cond1_mean": 0.2009690781583867,
+      "cond1_std": 0.021182439295564126,
+      "cond2_mean": 0.1868041826297233,
+      "cond2_std": 0.03832911271988646,
+      "cond1_seeds": [
+        0.18788818408616034,
+        0.18417047509667486,
+        0.23084857529232483
+      ],
+      "cond2_seeds": [
+        0.20158544023983058,
+        0.13424921899686135,
+        0.22457788865247794
+      ]
+    },
+    {
+      "prompt_id": "p08",
+      "text": "fast energetic electronic with dense driving short staccato ",
+      "cond1_mean": 0.16015441318850468,
+      "cond1_std": 0.01612324358935654,
+      "cond2_mean": 0.10325373157976314,
+      "cond2_std": 0.0,
+      "cond1_seeds": [
+        0.18232911670725505,
+        0.14446810843369345,
+        0.1536660144245655
+      ],
+      "cond2_seeds": [
+        0.10325373157976314,
+        0.10325373157976314,
+        0.10325373157976314
+      ]
+    },
+    {
+      "prompt_id": "p15",
+      "text": "uplifting bright happy piano bouncing between registers",
+      "cond1_mean": 0.13880952178191783,
+      "cond1_std": 0.01170100940867453,
+      "cond2_mean": 0.1353148780680198,
+      "cond2_std": 0.013220793838615498,
+      "cond1_seeds": [
+        0.12553825118835032,
+        0.15400526597970673,
+        0.13688504817769642
+      ],
+      "cond2_seeds": [
+        0.12553825118835032,
+        0.15400526597970673,
+        0.1264011170360024
+      ]
+    },
+    {
+      "prompt_id": "p20",
+      "text": "rich polyphonic classical piano with layered intricate chord",
+      "cond1_mean": 0.1697074049397523,
+      "cond1_std": 0.014248733891384138,
+      "cond2_mean": 0.1697074049397523,
+      "cond2_std": 0.014248733891384138,
+      "cond1_seeds": [
+        0.18501231215113584,
+        0.15070332203693215,
+        0.17340658063118897
+      ],
+      "cond2_seeds": [
+        0.18501231215113584,
+        0.15070332203693215,
+        0.17340658063118897
+      ]
+    }
+  ],
+  "midi_midi_similarity": [
+    {
+      "prompt_id": "p01",
+      "seed": "seed1",
+      "similarity": 0.8440706831073981
+    },
+    {
+      "prompt_id": "p01",
+      "seed": "seed2",
+      "similarity": 0.9999999999999999
+    },
+    {
+      "prompt_id": "p01",
+      "seed": "seed3",
+      "similarity": 0.874908940179863
+    },
+    {
+      "prompt_id": "p02",
+      "seed": "seed1",
+      "similarity": 0.9885779911543904
+    },
+    {
+      "prompt_id": "p02",
+      "seed": "seed2",
+      "similarity": 0.9703018431120914
+    },
+    {
+      "prompt_id": "p02",
+      "seed": "seed3",
+      "similarity": 0.9656368202129455
+    },
+    {
+      "prompt_id": "p04",
+      "seed": "seed1",
+      "similarity": 0.8614681979303727
+    },
+    {
+      "prompt_id": "p04",
+      "seed": "seed2",
+      "similarity": 0.8343779213076447
+    },
+    {
+      "prompt_id": "p04",
+      "seed": "seed3",
+      "similarity": 0.8364119767656412
+    },
+    {
+      "prompt_id": "p05",
+      "seed": "seed1",
+      "similarity": 0.8353811746600758
+    },
+    {
+      "prompt_id": "p05",
+      "seed": "seed2",
+      "similarity": 1.0
+    },
+    {
+      "prompt_id": "p05",
+      "seed": "seed3",
+      "similarity": 0.813817905214111
+    },
+    {
+      "prompt_id": "p07",
+      "seed": "seed1",
+      "similarity": 0.9885779911543904
+    },
+    {
+      "prompt_id": "p07",
+      "seed": "seed2",
+      "similarity": 0.9124265599885656
+    },
+    {
+      "prompt_id": "p07",
+      "seed": "seed3",
+      "similarity": 0.9656368202129455
+    },
+    {
+      "prompt_id": "p08",
+      "seed": "seed1",
+      "similarity": 0.8113724738614341
+    },
+    {
+      "prompt_id": "p08",
+      "seed": "seed2",
+      "similarity": 0.8359049651695758
+    },
+    {
+      "prompt_id": "p08",
+      "seed": "seed3",
+      "similarity": 0.8225514929855666
+    },
+    {
+      "prompt_id": "p15",
+      "seed": "seed1",
+      "similarity": 1.0
+    },
+    {
+      "prompt_id": "p15",
+      "seed": "seed2",
+      "similarity": 0.9999999999999999
+    },
+    {
+      "prompt_id": "p15",
+      "seed": "seed3",
+      "similarity": 0.9698828131587779
+    },
+    {
+      "prompt_id": "p20",
+      "seed": "seed1",
+      "similarity": 1.0
+    },
+    {
+      "prompt_id": "p20",
+      "seed": "seed2",
+      "similarity": 1.0
+    },
+    {
+      "prompt_id": "p20",
+      "seed": "seed3",
+      "similarity": 0.9999999999999999
+    }
+  ],
+  "summary": {
+    "cond1_avg": 0.12692157716500527,
+    "cond2_avg": 0.12284548633912082,
+    "delta": -0.004076090825884449,
+    "avg_midi_midi": 0.9221377737573245
+  }
+}

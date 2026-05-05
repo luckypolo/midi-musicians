@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "p01",
+    "text": "fast energetic piano with high density and bright chords",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6c2b70c750b5fba6dbf2aa6bbde89c05",
+        "caption": "This energetic and melodic electronic pop song in C major moves at an Andante tempo, evoking a sense of happiness and relaxation. With a 4/4 time signature, it features a chord progression of Cm6, Gm6",
+        "score": 0.3447960317134857
+      },
+      {
+        "filename": "6de21a5f33a9554c9587ca0db36c0c80",
+        "caption": "A short, energetic electronic fragment in B minor, featuring a fast tempo and a melodic progression through the chords A7/C#, Bm, D, G, and F#m, all within a 4/4 time signature.",
+        "score": 0.30883386731147766
+      },
+      {
+        "filename": "6225a2fbb7a9686fb10b14a23d4beb11",
+        "caption": "A short, energetic electronic song with a touch of pop influence, driven by a lively piano melody. Set in the key of G major with a fast tempo, it evokes a mix of emotions, from darkness to happiness.",
+        "score": 0.28030526638031006
+      }
+    ]
+  },
+  {
+    "id": "p02",
+    "text": "slow calm piano with sparse notes and low register",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "low",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "low",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6fd6296ee028c52e5443a072d73b26ae",
+        "caption": "A short, slow-paced electronic ambient fragment featuring an ocarina, set in the key of C major with a single occurrence of the chords C and C7, creating a dark, meditative atmosphere suitable for fil",
+        "score": 0.25126931071281433
+      },
+      {
+        "filename": "6c2b70c750b5fba6dbf2aa6bbde89c05",
+        "caption": "This energetic and melodic electronic pop song in C major moves at an Andante tempo, evoking a sense of happiness and relaxation. With a 4/4 time signature, it features a chord progression of Cm6, Gm6",
+        "score": 0.13897985219955444
+      },
+      {
+        "filename": "6511f4edc891f67a3c4ea8f6f2dade60",
+        "caption": "A slow-paced pop ballad expressing love through melodic piano and steady drums, set in the key of C# major with a 4/4 time signature, featuring a chord progression of Abdim, Ebm7, and C#/G# that adds ",
+        "score": 0.1341542750597
+      }
+    ]
+  },
+  {
+    "id": "p03",
+    "text": "bright happy melody with high register",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6d1bf2c847c71201e3c4c14f4704784c",
+        "caption": "A lively and melodic pop song featuring a piano, set in the key of C major with a moderate tempo of 120 beats per minute. The piece maintains a 4/4 time signature throughout, with the chord progressio",
+        "score": 0.1530473828315735
+      },
+      {
+        "filename": "63cc306d8b219bc4dd5b0b37d98ce862",
+        "caption": "A melodic electronic composition in F major, featuring the enchanting tones of dulcimer, ocarina, and synth pad, accompanied by synth effects. With a moderate tempo and a 3/4 time signature, it evokes",
+        "score": 0.1432650238275528
+      },
+      {
+        "filename": "6bfc16273d58c8485812f443e4b1115d",
+        "caption": "A classical soundtrack piece that evokes a strong sense of film and epic drama, performed by a string ensemble in C major at a moderate tempo, featuring a chord progression of Fmaj7, B, F, and C.",
+        "score": 0.12253306806087494
+      }
+    ]
+  },
+  {
+    "id": "p04",
+    "text": "dark sad piano with deep low notes and sustained legato",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "sad",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "low",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "sad",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "low",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6fd6296ee028c52e5443a072d73b26ae",
+        "caption": "A short, slow-paced electronic ambient fragment featuring an ocarina, set in the key of C major with a single occurrence of the chords C and C7, creating a dark, meditative atmosphere suitable for fil",
+        "score": 0.17818811535835266
+      },
+      {
+        "filename": "6f013a78e949d6cb6697a01f8d2237ec",
+        "caption": "A slow and relaxing classical piece featuring an acoustic guitar, this short song evokes a sense of happiness and inspiration. Written in the key of A minor with a 1/4 time signature, it's characteriz",
+        "score": 0.12702816724777222
+      },
+      {
+        "filename": "6c2b70c750b5fba6dbf2aa6bbde89c05",
+        "caption": "This energetic and melodic electronic pop song in C major moves at an Andante tempo, evoking a sense of happiness and relaxation. With a 4/4 time signature, it features a chord progression of Cm6, Gm6",
+        "score": 0.12436480820178986
+      }
+    ]
+  },
+  {
+    "id": "p05",
+    "text": "dense complex polyphonic piano with layered chords",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "neutral",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "neutral",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6874372252d3ee41d64b314a4a8705dd",
+        "caption": "A melodic and relaxing pop and jazz fusion song with a Christmas vibe, featuring a piano and flute lead accompanied by acoustic bass, drums, and a brass section. Set in the key of F major with a moder",
+        "score": 0.1919020116329193
+      },
+      {
+        "filename": "6fd6296ee028c52e5443a072d73b26ae",
+        "caption": "A short, slow-paced electronic ambient fragment featuring an ocarina, set in the key of C major with a single occurrence of the chords C and C7, creating a dark, meditative atmosphere suitable for fil",
+        "score": 0.1745147705078125
+      },
+      {
+        "filename": "6d80f9c78247175fca27c9076dcb413a",
+        "caption": "A melodic classical piece with a soundtrack vibe, featuring a blend of piano, electric piano, honky-tonk piano, music box, and clavinet, creating a relaxing yet slightly dark atmosphere. Set in the ke",
+        "score": 0.1534154713153839
+      }
+    ]
+  },
+  {
+    "id": "p06",
+    "text": "simple solo monophonic melody with long sustained notes",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "neutral",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "medium",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "neutral",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "medium",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6fd6296ee028c52e5443a072d73b26ae",
+        "caption": "A short, slow-paced electronic ambient fragment featuring an ocarina, set in the key of C major with a single occurrence of the chords C and C7, creating a dark, meditative atmosphere suitable for fil",
+        "score": 0.22349244356155396
+      },
+      {
+        "filename": "6f43ed94c4334c1b702570cfd79e39f5",
+        "caption": "A melodic and relaxing short jazz song featuring a harmonica, set in the key of G major with a 4/4 time signature, incorporating a chord sequence of G, A, G, and A7.",
+        "score": 0.16171619296073914
+      },
+      {
+        "filename": "6a9e0c0d3e573e0f5be0ef9331858ddf",
+        "caption": "A short fragment of rock and electronic music featuring a distorted guitar, set in the key of E minor with a moderate tempo and a 4/4 time signature. The mood is dark, energetic, and melodic, with a h",
+        "score": 0.15507033467292786
+      }
+    ]
+  },
+  {
+    "id": "p07",
+    "text": "calm ambient with sparse polyphony and long sustained pads",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "ambient"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "ambient"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6fd6296ee028c52e5443a072d73b26ae",
+        "caption": "A short, slow-paced electronic ambient fragment featuring an ocarina, set in the key of C major with a single occurrence of the chords C and C7, creating a dark, meditative atmosphere suitable for fil",
+        "score": 0.2939755320549011
+      },
+      {
+        "filename": "64062783ef0609a5cb49b0fc56a0fe0c",
+        "caption": "This electronic song, infused with ambient elements, is a melodic and relaxing journey. With a Presto tempo and a 4/4 time signature, it features a diverse instrumentation including synth brass, drums",
+        "score": 0.29158028960227966
+      },
+      {
+        "filename": "6162950306d4efbfc11f3685297f1c30",
+        "caption": "A lengthy classical composition with electronic elements, this piece exudes a relaxing and meditative atmosphere. Driven by an acoustic guitar, ocarina, and piano, with electric bass and drums providi",
+        "score": 0.21878132224082947
+      }
+    ]
+  },
+  {
+    "id": "p08",
+    "text": "fast energetic electronic with dense driving short staccato notes",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "energetic",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "short",
+      "genre": "electronic"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "energetic",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "short",
+      "genre": "electronic"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6df20244391b7f211b6f45f271ca8ff9",
+        "caption": "This short electronic song in F minor is a lively blend of melodic and energetic elements, evoking a sense of happiness and a gaming or cinematic vibe. Featuring a diverse instrumentation of drums, ce",
+        "score": 0.28695541620254517
+      },
+      {
+        "filename": "6de21a5f33a9554c9587ca0db36c0c80",
+        "caption": "A short, energetic electronic fragment in B minor, featuring a fast tempo and a melodic progression through the chords A7/C#, Bm, D, G, and F#m, all within a 4/4 time signature.",
+        "score": 0.2824183702468872
+      },
+      {
+        "filename": "68bed2928f84fb73dfbf2077235ff4f0",
+        "caption": "A short fragment of energetic electronic music with a moderate tempo, featuring melodic elements that evoke a mix of happiness and darkness, potentially suitable for use in film.",
+        "score": 0.27875596284866333
+      }
+    ]
+  },
+  {
+    "id": "p09",
+    "text": "jazz piano with medium complexity and relaxing calm mood",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "jazz"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "jazz"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6874372252d3ee41d64b314a4a8705dd",
+        "caption": "A melodic and relaxing pop and jazz fusion song with a Christmas vibe, featuring a piano and flute lead accompanied by acoustic bass, drums, and a brass section. Set in the key of F major with a moder",
+        "score": 0.290449857711792
+      },
+      {
+        "filename": "6c2b70c750b5fba6dbf2aa6bbde89c05",
+        "caption": "This energetic and melodic electronic pop song in C major moves at an Andante tempo, evoking a sense of happiness and relaxation. With a 4/4 time signature, it features a chord progression of Cm6, Gm6",
+        "score": 0.24918299913406372
+      },
+      {
+        "filename": "6bb4a1ac4a81bbe760ac3f06caf8c3c9",
+        "caption": "A slow and relaxing pop song with a touch of electronic elements, featuring a piano that plays a melodic theme. The piece is in the key of C# major and has a 4/4 time signature. It evokes a range of e",
+        "score": 0.246586874127388
+      }
+    ]
+  },
+  {
+    "id": "p10",
+    "text": "sparse bright airy high register with calm relaxing mood",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "low",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "low",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "64062783ef0609a5cb49b0fc56a0fe0c",
+        "caption": "This electronic song, infused with ambient elements, is a melodic and relaxing journey. With a Presto tempo and a 4/4 time signature, it features a diverse instrumentation including synth brass, drums",
+        "score": 0.3430696427822113
+      },
+      {
+        "filename": "68d83750c7d883e1c362c5a1b53f72f0",
+        "caption": "A meditative and relaxing classical piece featuring piano, synth pad, oboe, and whistle, set in A major with a moderate tempo. The main chord progression of E, A, D, A contributes to the soothing atmo",
+        "score": 0.3379474878311157
+      },
+      {
+        "filename": "6162950306d4efbfc11f3685297f1c30",
+        "caption": "A lengthy classical composition with electronic elements, this piece exudes a relaxing and meditative atmosphere. Driven by an acoustic guitar, ocarina, and piano, with electric bass and drums providi",
+        "score": 0.3187776207923889
+      }
+    ]
+  },
+  {
+    "id": "p11",
+    "text": "melancholic jazz piano for a rainy evening",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "sad",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "jazz"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "sad",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "jazz"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6fd6296ee028c52e5443a072d73b26ae",
+        "caption": "A short, slow-paced electronic ambient fragment featuring an ocarina, set in the key of C major with a single occurrence of the chords C and C7, creating a dark, meditative atmosphere suitable for fil",
+        "score": 0.16823184490203857
+      },
+      {
+        "filename": "6874372252d3ee41d64b314a4a8705dd",
+        "caption": "A melodic and relaxing pop and jazz fusion song with a Christmas vibe, featuring a piano and flute lead accompanied by acoustic bass, drums, and a brass section. Set in the key of F major with a moder",
+        "score": 0.1342771053314209
+      },
+      {
+        "filename": "6c2b70c750b5fba6dbf2aa6bbde89c05",
+        "caption": "This energetic and melodic electronic pop song in C major moves at an Andante tempo, evoking a sense of happiness and relaxation. With a 4/4 time signature, it features a chord progression of Cm6, Gm6",
+        "score": 0.12583424150943756
+      }
+    ]
+  },
+  {
+    "id": "p12",
+    "text": "gentle folk guitar ballad with calm acoustic warmth",
+    "original_controls": {
+      "instrument": "guitar",
+      "mood": "calm",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "folk"
+    },
+    "rag_controls": {
+      "instrument": "guitar",
+      "mood": "calm",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "folk"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "67c70658e6d050f52e06cf17bf708a86",
+        "caption": "A relaxing pop song with electronic elements, featuring a banjo, acoustic guitar, slap bass, and drums, all coming together to create a melodic and meditative atmosphere. The piece is in B major, with",
+        "score": 0.2854260802268982
+      },
+      {
+        "filename": "6fc735dcda3f19b06c3f1d44d4c940fc",
+        "caption": "A slow-paced pop song in D major, featuring a melodic interplay between piano, clean electric guitar, and fiddle, supported by electric bass and drums, evoking feelings of happiness and love through i",
+        "score": 0.27590513229370117
+      },
+      {
+        "filename": "613ee952eab20fff3856320431dde817",
+        "caption": "A cheerful and inspiring classical piece with electronic elements, featuring an acoustic guitar and banjo playing melodic lines over a steady rhythm provided by an acoustic bass and drums. The song is",
+        "score": 0.2600724697113037
+      }
+    ]
+  },
+  {
+    "id": "p13",
+    "text": "dramatic cinematic orchestral strings with dense layered climax",
+    "original_controls": {
+      "instrument": "strings",
+      "mood": "dramatic",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "cinematic"
+    },
+    "rag_controls": {
+      "instrument": "strings",
+      "mood": "dramatic",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "cinematic"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "633617625122dc6bea1ed53477f27907",
+        "caption": "A festive pop song with a touch of rock, featuring a blend of piano, string ensemble, acoustic and overdriven guitars, and electric bass. Set in the key of C minor with a fast tempo, this melodic piec",
+        "score": 0.27450722455978394
+      },
+      {
+        "filename": "67cbb7a60862362be42646667d08dc64",
+        "caption": "A classical soundtrack composition featuring piano, string ensemble, oboe, and fretless bass, this piece evokes a cinematic atmosphere. Set in E major with a 4/4 time signature, it unfolds at an Andan",
+        "score": 0.2551766633987427
+      },
+      {
+        "filename": "63205633e0943aac1366779bc08cf600",
+        "caption": "In this short electronic soundtrack, a violin and brass lead intertwine with a piano, brass section, and drums, creating an epic and melodic atmosphere. The piece, set in G major with a 7/8 time signa",
+        "score": 0.25492969155311584
+      }
+    ]
+  },
+  {
+    "id": "p14",
+    "text": "minimal ambient synth drone with sustained long notes",
+    "original_controls": {
+      "instrument": "synth",
+      "mood": "neutral",
+      "complexity": "low",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "ambient"
+    },
+    "rag_controls": {
+      "instrument": "synth",
+      "mood": "neutral",
+      "complexity": "low",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "ambient"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "61ad6adb02f3ec69d1d0ca08cfe22295",
+        "caption": "In this electronic song, a vivacious tempo of 150 BPM propels the melody forward, with synth strings taking the lead, supported by the rhythmic foundation of drums, synth drums, and a synth bass, whil",
+        "score": 0.2179987132549286
+      },
+      {
+        "filename": "6d80f9c78247175fca27c9076dcb413a",
+        "caption": "A melodic classical piece with a soundtrack vibe, featuring a blend of piano, electric piano, honky-tonk piano, music box, and clavinet, creating a relaxing yet slightly dark atmosphere. Set in the ke",
+        "score": 0.20794469118118286
+      },
+      {
+        "filename": "69fc91646963727c2e4d1b24bf8223b4",
+        "caption": "This lengthy pop composition in F major exudes a sense of love and relaxation through its melodic lines. With a 4/4 time signature and an Andante tempo, it unfolds at a gentle pace, evoking an emotion",
+        "score": 0.19871048629283905
+      }
+    ]
+  },
+  {
+    "id": "p15",
+    "text": "uplifting bright happy piano bouncing between registers",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6c2b70c750b5fba6dbf2aa6bbde89c05",
+        "caption": "This energetic and melodic electronic pop song in C major moves at an Andante tempo, evoking a sense of happiness and relaxation. With a 4/4 time signature, it features a chord progression of Cm6, Gm6",
+        "score": 0.30437546968460083
+      },
+      {
+        "filename": "6bb4a1ac4a81bbe760ac3f06caf8c3c9",
+        "caption": "A slow and relaxing pop song with a touch of electronic elements, featuring a piano that plays a melodic theme. The piece is in the key of C# major and has a 4/4 time signature. It evokes a range of e",
+        "score": 0.2774224579334259
+      },
+      {
+        "filename": "6d1bf2c847c71201e3c4c14f4704784c",
+        "caption": "A lively and melodic pop song featuring a piano, set in the key of C major with a moderate tempo of 120 beats per minute. The piece maintains a 4/4 time signature throughout, with the chord progressio",
+        "score": 0.2669416069984436
+      }
+    ]
+  },
+  {
+    "id": "p16",
+    "text": "tense dark dense complex layered synth",
+    "original_controls": {
+      "instrument": "synth",
+      "mood": "dark",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "low",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "synth",
+      "mood": "dark",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "low",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6613957f1a649ef71e662371a13ebb27",
+        "caption": "A melodic and relaxing electronic ambient song in 3/4 time signature, set in the key of E minor. The fretless bass, rock organ, synth pad, orchestral harp, and drums create a dreamy and meditative atm",
+        "score": 0.34529784321784973
+      },
+      {
+        "filename": "61ad6adb02f3ec69d1d0ca08cfe22295",
+        "caption": "In this electronic song, a vivacious tempo of 150 BPM propels the melody forward, with synth strings taking the lead, supported by the rhythmic foundation of drums, synth drums, and a synth bass, whil",
+        "score": 0.32494020462036133
+      },
+      {
+        "filename": "6d80f9c78247175fca27c9076dcb413a",
+        "caption": "A melodic classical piece with a soundtrack vibe, featuring a blend of piano, electric piano, honky-tonk piano, music box, and clavinet, creating a relaxing yet slightly dark atmosphere. Set in the ke",
+        "score": 0.3113452196121216
+      }
+    ]
+  },
+  {
+    "id": "p17",
+    "text": "simple solo piano with sparse calm sustained notes",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6fd6296ee028c52e5443a072d73b26ae",
+        "caption": "A short, slow-paced electronic ambient fragment featuring an ocarina, set in the key of C major with a single occurrence of the chords C and C7, creating a dark, meditative atmosphere suitable for fil",
+        "score": 0.22322340309619904
+      },
+      {
+        "filename": "636516683f8333ac151d8474174262cc",
+        "caption": "A short melodic electronic pop song in G major, with a moderately slow tempo and a 4/4 time signature. It evokes a range of emotions, from dark and relaxing to cinematic, with a chord progression of D",
+        "score": 0.1506313979625702
+      },
+      {
+        "filename": "6348ee069636c2f94d3c6ff5ea7d5429",
+        "caption": "A melodic and relaxing classical piece with a hint of electronic elements, featuring a solo piano. Set in a moderate 3/4 time signature, it unfolds gently in the key of C major, evoking a romantic and",
+        "score": 0.12202705442905426
+      }
+    ]
+  },
+  {
+    "id": "p18",
+    "text": "deep bass-heavy low register with slow driving rhythm",
+    "original_controls": {
+      "instrument": "bass",
+      "mood": "neutral",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "low",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "bass",
+      "mood": "neutral",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "low",
+      "note_duration_level": "medium",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6c2b70c750b5fba6dbf2aa6bbde89c05",
+        "caption": "This energetic and melodic electronic pop song in C major moves at an Andante tempo, evoking a sense of happiness and relaxation. With a 4/4 time signature, it features a chord progression of Cm6, Gm6",
+        "score": 0.3217662274837494
+      },
+      {
+        "filename": "67ac2461b2917111e347c24afa47050a",
+        "caption": "This lengthy electronic and pop composition exudes a melodic and joyful atmosphere, making it suitable for corporate or documentary background music. It features a diverse instrumentation including el",
+        "score": 0.30311858654022217
+      },
+      {
+        "filename": "6b9f3ee16714fc4e5bbdc19073c648c4",
+        "caption": "This lengthy rock composition is a captivating blend of energy and melody, with a hint of darkness and an epic feel. The electric and acoustic guitars, both clean and distorted, take center stage, sup",
+        "score": 0.29701119661331177
+      }
+    ]
+  },
+  {
+    "id": "p19",
+    "text": "bright staccato short plucky piano arpeggios climbing upward",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "short",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "short",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6348ee069636c2f94d3c6ff5ea7d5429",
+        "caption": "A melodic and relaxing classical piece with a hint of electronic elements, featuring a solo piano. Set in a moderate 3/4 time signature, it unfolds gently in the key of C major, evoking a romantic and",
+        "score": 0.2027941644191742
+      },
+      {
+        "filename": "671d83afd65ad283bc64e1605eb53ee7",
+        "caption": "A short, melodic electronic song in E minor, featuring a piano that plays at an incredibly fast Prestissimo tempo. The piece evokes a mix of energetic and dark moods, making it suitable for a film sou",
+        "score": 0.1793982982635498
+      },
+      {
+        "filename": "6b7aea062e7b6422cbd35e0d37af047b",
+        "caption": "A short classical piece featuring an acoustic guitar, this composition evokes a sense of relaxation and meditation. Set in the key of C major with a 4/4 time signature, it moves at a brisk tempo, crea",
+        "score": 0.16063129901885986
+      }
+    ]
+  },
+  {
+    "id": "p20",
+    "text": "rich polyphonic classical piano with layered intricate chords and legato",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "neutral",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "medium",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "classical"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "neutral",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "medium",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "classical"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6348ee069636c2f94d3c6ff5ea7d5429",
+        "caption": "A melodic and relaxing classical piece with a hint of electronic elements, featuring a solo piano. Set in a moderate 3/4 time signature, it unfolds gently in the key of C major, evoking a romantic and",
+        "score": 0.27601414918899536
+      },
+      {
+        "filename": "636516683f8333ac151d8474174262cc",
+        "caption": "A short melodic electronic pop song in G major, with a moderately slow tempo and a 4/4 time signature. It evokes a range of emotions, from dark and relaxing to cinematic, with a chord progression of D",
+        "score": 0.2734769582748413
+      },
+      {
+        "filename": "6c2b70c750b5fba6dbf2aa6bbde89c05",
+        "caption": "This energetic and melodic electronic pop song in C major moves at an Andante tempo, evoking a sense of happiness and relaxation. With a 4/4 time signature, it features a chord progression of Cm6, Gm6",
+        "score": 0.25496363639831543
+      }
+    ]
+  },
+  {
+    "id": "p21",
+    "text": "energetic rock guitar with fast dense driving rhythm",
+    "original_controls": {
+      "instrument": "guitar",
+      "mood": "energetic",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "rock"
+    },
+    "rag_controls": {
+      "instrument": "guitar",
+      "mood": "energetic",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "rock"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6b9f3ee16714fc4e5bbdc19073c648c4",
+        "caption": "This lengthy rock composition is a captivating blend of energy and melody, with a hint of darkness and an epic feel. The electric and acoustic guitars, both clean and distorted, take center stage, sup",
+        "score": 0.3167535662651062
+      },
+      {
+        "filename": "663a38a30dcf1d41fd465eeced21f62f",
+        "caption": "A high-energy rock instrumental bursting with melodic riffs from distorted and overdriven guitars, punctuated by the wailing of a soprano saxophone. The electric bass and drums provide a solid, drivin",
+        "score": 0.2908477783203125
+      },
+      {
+        "filename": "6c759174be83245e9f2165a6c7d38894",
+        "caption": "An energetic and melodic rock song with a very fast tempo, featuring distorted guitars, electric bass, French horn, and drums, set in the key of Eb major with a chord progression of Eb, Cm, and Bb6, c",
+        "score": 0.25304049253463745
+      }
+    ]
+  },
+  {
+    "id": "p22",
+    "text": "dark dramatic organ with sustained low register chords",
+    "original_controls": {
+      "instrument": "organ",
+      "mood": "dark",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "low",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "organ",
+      "mood": "dark",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "low",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6fd6296ee028c52e5443a072d73b26ae",
+        "caption": "A short, slow-paced electronic ambient fragment featuring an ocarina, set in the key of C major with a single occurrence of the chords C and C7, creating a dark, meditative atmosphere suitable for fil",
+        "score": 0.22430726885795593
+      },
+      {
+        "filename": "6613957f1a649ef71e662371a13ebb27",
+        "caption": "A melodic and relaxing electronic ambient song in 3/4 time signature, set in the key of E minor. The fretless bass, rock organ, synth pad, orchestral harp, and drums create a dreamy and meditative atm",
+        "score": 0.20910996198654175
+      },
+      {
+        "filename": "633e1ceb339b2c3c751e38bf58bbf177",
+        "caption": "A melodic electronic soundtrack featuring a string ensemble, flute, cello, fretless bass, and overdriven guitar, set in A minor with a 5/4 time signature and a moderate tempo of 120 bpm, evoking a rel",
+        "score": 0.1535421907901764
+      }
+    ]
+  },
+  {
+    "id": "p23",
+    "text": "happy uplifting pop synth with bright high register melody",
+    "original_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "pop"
+    },
+    "rag_controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "pop"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6cc902d1bd9cb3a25ec1d9a862fed005",
+        "caption": "A melodic and happy pop-electronic song with a Christmas vibe, featuring drums, brass section, fretless bass, piano, and acoustic guitar. The track is in E minor, has a fast tempo of 140 BPM, and foll",
+        "score": 0.25620514154434204
+      },
+      {
+        "filename": "6734884bcabba168ce5388cd47c213b5",
+        "caption": "A soundtrack composition with classical elements, this short song evokes a cinematic atmosphere, blending epic and dark tones with moments of relaxation and emotion. Performed by a piano, string ensem",
+        "score": 0.22888706624507904
+      },
+      {
+        "filename": "6ec50e60d70e05b3c45b51e8bda89b01",
+        "caption": "A captivating electronic song that transports the listener to a dreamy, melodic space. Synth brass leads the way, supported by synth pads and bass, while drums and fretless bass provide the rhythmic f",
+        "score": 0.22601544857025146
+      }
+    ]
+  },
+  {
+    "id": "p24",
+    "text": "slow melancholic cello solo with long legato notes",
+    "original_controls": {
+      "instrument": "strings",
+      "mood": "sad",
+      "complexity": "medium",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "rag_controls": {
+      "instrument": "strings",
+      "mood": "sad",
+      "complexity": "medium",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    },
+    "changes": {},
+    "retrieved": [
+      {
+        "filename": "6fd6296ee028c52e5443a072d73b26ae",
+        "caption": "A short, slow-paced electronic ambient fragment featuring an ocarina, set in the key of C major with a single occurrence of the chords C and C7, creating a dark, meditative atmosphere suitable for fil",
+        "score": 0.11767548322677612
+      },
+      {
+        "filename": "6f013a78e949d6cb6697a01f8d2237ec",
+        "caption": "A slow and relaxing classical piece featuring an acoustic guitar, this short song evokes a sense of happiness and inspiration. Written in the key of A minor with a 1/4 time signature, it's characteriz",
+        "score": 0.09739836305379868
+      },
+      {
+        "filename": "66cdb3edfb4586fc766b3549996bed2b",
+        "caption": "A lengthy classical composition in E minor, this piece exudes happiness and relaxation through its inspiring melodies. With a moderato tempo and a 3/4 time signature, it's performed solely on an acous",
+        "score": 0.09300117194652557
+      }
+    ]
+  },
+  {
+    "id": "p25",
+    "text": "energetic trance synth with fast dense driving electronic beat",
+    "original_controls": {
+      "instrument": "synth",
+      "mood": "energetic",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "electronic"
+    },
+    "rag_controls": {
+      "instrument": "synth",
+      "mood": "energetic",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "electronic"
+    },
+    "changes": {
+      "complexity": [
+        "high",
+        "medium"
+      ]
+    },
+    "retrieved": [
+      {
+        "filename": "6d80f9c78247175fca27c9076dcb413a",
+        "caption": "A melodic classical piece with a soundtrack vibe, featuring a blend of piano, electric piano, honky-tonk piano, music box, and clavinet, creating a relaxing yet slightly dark atmosphere. Set in the ke",
+        "score": 0.3463640809059143
+      },
+      {
+        "filename": "6225a2fbb7a9686fb10b14a23d4beb11",
+        "caption": "A short, energetic electronic song with a touch of pop influence, driven by a lively piano melody. Set in the key of G major with a fast tempo, it evokes a mix of emotions, from darkness to happiness.",
+        "score": 0.3358716070652008
+      },
+      {
+        "filename": "6a2316992b56714a4601596adeb446c0",
+        "caption": "This lengthy electronic ambient piece, set in B minor, unfolds at a moderate tempo with a 4/4 time signature. Synth strings and pads weave melodic lines that evoke a sense of spaciousness and dreamine",
+        "score": 0.3343490958213806
+      }
+    ]
+  }
+]

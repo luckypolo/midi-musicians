@@ -1,0 +1,352 @@
+[
+  {
+    "id": "p01",
+    "text": "fast energetic piano with high density and bright chords",
+    "controls": {
+      "instrument": "piano",
+      "mood": "energetic",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "high",
+      "note_duration_level": "short",
+      "genre": "unknown"
+    }
+  },
+  {
+    "id": "p02",
+    "text": "slow calm piano with sparse notes and low register",
+    "controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "low",
+      "note_duration_level": "long",
+      "genre": "ambient"
+    }
+  },
+  {
+    "id": "p03",
+    "text": "bright happy melody with high register",
+    "controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "pop"
+    }
+  },
+  {
+    "id": "p04",
+    "text": "dark sad piano with deep low notes and sustained legato",
+    "controls": {
+      "instrument": "piano",
+      "mood": "sad",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "low",
+      "register": "low",
+      "note_duration_level": "long",
+      "genre": "classical"
+    }
+  },
+  {
+    "id": "p05",
+    "text": "dense complex polyphonic piano with layered chords",
+    "controls": {
+      "instrument": "piano",
+      "mood": "neutral",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "classical"
+    }
+  },
+  {
+    "id": "p06",
+    "text": "simple solo monophonic melody with long sustained notes",
+    "controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    }
+  },
+  {
+    "id": "p07",
+    "text": "calm ambient with sparse polyphony and long sustained pads",
+    "controls": {
+      "instrument": "synth",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "ambient"
+    }
+  },
+  {
+    "id": "p08",
+    "text": "fast energetic electronic with dense driving short staccato notes",
+    "controls": {
+      "instrument": "synth",
+      "mood": "energetic",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "short",
+      "genre": "electronic"
+    }
+  },
+  {
+    "id": "p09",
+    "text": "jazz piano with medium complexity and relaxing calm mood",
+    "controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "jazz"
+    }
+  },
+  {
+    "id": "p10",
+    "text": "sparse bright airy high register with calm relaxing mood",
+    "controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "high",
+      "note_duration_level": "long",
+      "genre": "ambient"
+    }
+  },
+  {
+    "id": "p11",
+    "text": "melancholic jazz piano for a rainy evening",
+    "controls": {
+      "instrument": "piano",
+      "mood": "sad",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "jazz"
+    }
+  },
+  {
+    "id": "p12",
+    "text": "gentle folk guitar ballad with calm acoustic warmth",
+    "controls": {
+      "instrument": "guitar",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "folk"
+    }
+  },
+  {
+    "id": "p13",
+    "text": "dramatic cinematic orchestral strings with dense layered climax",
+    "controls": {
+      "instrument": "strings",
+      "mood": "dramatic",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "medium",
+      "genre": "cinematic"
+    }
+  },
+  {
+    "id": "p14",
+    "text": "minimal ambient synth drone with sustained long notes",
+    "controls": {
+      "instrument": "synth",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "ambient"
+    }
+  },
+  {
+    "id": "p15",
+    "text": "uplifting bright happy piano bouncing between registers",
+    "controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "short",
+      "genre": "pop"
+    }
+  },
+  {
+    "id": "p16",
+    "text": "tense dark dense complex layered synth",
+    "controls": {
+      "instrument": "synth",
+      "mood": "dark",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "high",
+      "register": "low",
+      "note_duration_level": "medium",
+      "genre": "electronic"
+    }
+  },
+  {
+    "id": "p17",
+    "text": "simple solo piano with sparse calm sustained notes",
+    "controls": {
+      "instrument": "piano",
+      "mood": "calm",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "unknown"
+    }
+  },
+  {
+    "id": "p18",
+    "text": "deep bass-heavy low register with slow driving rhythm",
+    "controls": {
+      "instrument": "bass",
+      "mood": "dark",
+      "complexity": "medium",
+      "polyphony_level": "low",
+      "density_level": "medium",
+      "register": "low",
+      "note_duration_level": "medium",
+      "genre": "electronic"
+    }
+  },
+  {
+    "id": "p19",
+    "text": "bright staccato short plucky piano arpeggios climbing upward",
+    "controls": {
+      "instrument": "piano",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "low",
+      "density_level": "high",
+      "register": "high",
+      "note_duration_level": "short",
+      "genre": "unknown"
+    }
+  },
+  {
+    "id": "p20",
+    "text": "rich polyphonic classical piano with layered intricate chords and legato",
+    "controls": {
+      "instrument": "piano",
+      "mood": "neutral",
+      "complexity": "high",
+      "polyphony_level": "high",
+      "density_level": "medium",
+      "register": "medium",
+      "note_duration_level": "long",
+      "genre": "classical"
+    }
+  },
+  {
+    "id": "p21",
+    "text": "energetic rock guitar with fast dense driving rhythm",
+    "controls": {
+      "instrument": "guitar",
+      "mood": "energetic",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "short",
+      "genre": "rock"
+    }
+  },
+  {
+    "id": "p22",
+    "text": "dark dramatic organ with sustained low register chords",
+    "controls": {
+      "instrument": "organ",
+      "mood": "dramatic",
+      "complexity": "medium",
+      "polyphony_level": "high",
+      "density_level": "medium",
+      "register": "low",
+      "note_duration_level": "long",
+      "genre": "classical"
+    }
+  },
+  {
+    "id": "p23",
+    "text": "happy uplifting pop synth with bright high register melody",
+    "controls": {
+      "instrument": "synth",
+      "mood": "happy",
+      "complexity": "medium",
+      "polyphony_level": "medium",
+      "density_level": "medium",
+      "register": "high",
+      "note_duration_level": "medium",
+      "genre": "pop"
+    }
+  },
+  {
+    "id": "p24",
+    "text": "slow melancholic cello solo with long legato notes",
+    "controls": {
+      "instrument": "strings",
+      "mood": "sad",
+      "complexity": "low",
+      "polyphony_level": "low",
+      "density_level": "low",
+      "register": "low",
+      "note_duration_level": "long",
+      "genre": "classical"
+    }
+  },
+  {
+    "id": "p25",
+    "text": "energetic trance synth with fast dense driving electronic beat",
+    "controls": {
+      "instrument": "synth",
+      "mood": "energetic",
+      "complexity": "high",
+      "polyphony_level": "medium",
+      "density_level": "high",
+      "register": "medium",
+      "note_duration_level": "short",
+      "genre": "trance"
+    }
+  }
+]

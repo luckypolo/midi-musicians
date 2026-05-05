@@ -1,0 +1,29 @@
+# CLaMP 3 repo (third-party, clone separately)
+clamp3/
+
+# Large data files
+midicaps_subset/midi/*.mid
+midicaps_subset/midi/*.midi
+midicaps_subset/train.json
+midicaps_subset/midicaps.tar.gz
+*.tar.gz
+
+# CLaMP 3 cache and embeddings
+cache/
+eval_experiment/*_mtf/
+eval_experiment/*_embeddings/
+eval_experiment/text_embeddings/
+*.npy
+
+# Wandb local logs
+wandb/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.conda/
+
+# Generated MIDI outputs (large, regenerable)
+outputs/condition*/
+midicaps_subset/midi/outputs/
